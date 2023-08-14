@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+
+Visit my website at: https://anshgupta01.github.io/netflix-clone/
+
 The project contains implementations of:
 - TMDB API Key
 - Firebase hosting
