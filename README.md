@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Screenshots of the App:
+![Screenshot 1](https://github.com/AnshGupta01/netflix-clone/assets/26479077/da71956c-3f8d-4d9d-96da-274815c76c12)
+
+![Screenshot 2](https://github.com/AnshGupta01/netflix-clone/assets/26479077/f04f3a99-37a6-4f49-994a-4f202e499007)
+
 ## Available Scripts
 
 In the project directory, you can run:
