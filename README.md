@@ -1,6 +1,8 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project contains implementations of:
+- TMDB API Key
+- Firebase hosting
+- General CSS Styling
 
 Screenshots of the App:
 ![Screenshot 1](https://github.com/AnshGupta01/netflix-clone/assets/26479077/da71956c-3f8d-4d9d-96da-274815c76c12)
